@@ -1,9 +1,5 @@
-import other from "./b.js";
-
-export function t() {
-  return 1;
-}
+import b from "./b.js";
 
 export default function () {
-  return other();
+  return b();
 }

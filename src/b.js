@@ -1,9 +1,5 @@
-import { t } from "./index.js";
-
-export function r() {
-  return t;
-}
+import c from "./index.js";
 
 export default function () {
-  return other();
+  return c();
 }
